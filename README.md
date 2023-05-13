@@ -5,16 +5,16 @@
 
 ### Left players keys:
 
-A - left
-S - down
-W - up
-D - right
+A - left,
+S - down,
+W - up,
+D - right,
 LCTRL - shoot
 
 ### Right player keys:
 
-Left key - left
-Right key - down
-Up key - up
-Down key - right
+Left key - left,
+Right key - down,
+Up key - up,
+Down key - right,
 RCTRL - shoot
