@@ -1,0 +1,17 @@
+Spaceship Battle!
+
+Rules:
+The objective is to defeat the other player by shooting at him, each player has 10 life points.
+Left players keys:
+A - left, S - down, W - up, D - right, LCTRL - shoot
+
+Right player keys:
+Left key - left, Right key - down, Up key - up, Down key - right, RCTRL - shoot
+
+
+How to use:
+
+Extract the two files to a single folder and press the .exe file to start the game.
+
+
+all rights: @Zivgl66

@@ -199,6 +199,7 @@ def main():
             WIN_SOUND.play()
             WIN_CHEER_SOUND.play()
             draw_winner(winner_text)
+            MAIN_GAME_SOUND.stop()
             break
 
         keys_pressed = pygame.key.get_pressed()
