@@ -3,8 +3,6 @@
 
 download [here](https://fastupload.io/en/Kf5dTJAOTAGvBPO/file)
 
-![1](https://github.com/Zivgl66/Fake-Amazon-server/assets/95753868/ca377faf-c61d-44ce-b6cd-c25510315c46)
-
 
 ## Description
 
